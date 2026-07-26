@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vksharma-72&layout=compact&theme=tokyonight&langs_count=8"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Vksharma-72&theme=tokyonight"/>
 
 
 </div>
