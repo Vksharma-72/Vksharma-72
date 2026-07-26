@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = r'''# 👋 Hi, I'm Vishnu Kumar Sharma
+👋 Hi, I'm Vishnu Kumar Sharma
 
 <div align="center">
 
